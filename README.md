@@ -1,6 +1,6 @@
 # Prueba Backend Defontana - Node.js y SQL Server
 
-Este proyecto es una prueba técnica para el puesto de Backend Developer en Defontana. Consiste en una aplicación Node.js que se conecta a una base de datos SQL Server, obtiene datos de ventas de los últimos 30 días, los procesa y muestra los resultados por consola.
+Este proyecto es una prueba técnica para el puesto de Full-Stack en Defontana. Consiste en una aplicación Node.js que se conecta a una base de datos SQL Server, obtiene datos de ventas de los últimos 30 días, los procesa y muestra los resultados por consola.
 
 ---
 
